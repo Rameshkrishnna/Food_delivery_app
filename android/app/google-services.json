@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5015567710",
+    "project_id": "axion-96f9a",
+    "storage_bucket": "axion-96f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5015567710:android:44b43be7d4603e3661e3cf",
+        "android_client_info": {
+          "package_name": "com.ramesh.smack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5015567710-6mir12734ierndhele0rlmfhh1r3mde2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzu3nen5hsTtz0YuNNpz3KL_6Itu-K5xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5015567710-6mir12734ierndhele0rlmfhh1r3mde2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
